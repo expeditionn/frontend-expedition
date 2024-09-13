@@ -1,4 +1,5 @@
 .mainBody {
+  text-align: center;
   background-color: black;
   width: 100vw;
   font-family: 'Poppins', sans-serif;
@@ -52,28 +53,37 @@
 }
 
 .hRule {
-  color: #A3A3A3;
+  width: 97vw;
+  background-color: #363535;
+  border: none;
+  height: 0.3px;
+}
+
+.body2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 60px;
+  margin-bottom: 0px;
 }
 
 .logoDiv {
   display: flex;
-  margin-top: 7px;
-  margin-left: 20px;
   align-items: center;
 }
 
 .mainIcon {
   color: #FE6A34;
-  font-size: 2.3rem;
+  font-size: 2rem;
   padding: 0;
   margin-bottom: 10px;
-  margin-right: 4px;
+  margin-right: 2px;
 }
 
 .brandName {
   cursor: pointer;
   color: white;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 .onText {
@@ -83,3 +93,47 @@
 .onText:hover {
   color: white;
 }
+
+.footerTextBody {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: #A3A3A3;
+  gap: 30px;
+  font-family: sans-serif;
+}
+
+.footerText {
+  font-size: 1.05rem;
+  font-weight: 200;
+}
+
+.footerText:hover {
+  color: #FE6A34;
+  cursor: pointer;
+}
+
+.iconBody {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #FE6A34;
+  gap: 30px;
+  font-size: 1.5rem;
+}
+
+.copyRightBody {
+  margin-top: -7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.allRights {
+  margin-left: 30px;
+  font-size: 0.9rem;
+  color: #585858;
+  font-weight: 300;
+}
+
