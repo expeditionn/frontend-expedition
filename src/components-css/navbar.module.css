@@ -1,0 +1,74 @@
+.navBody {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  backdrop-filter: blur(12px);
+  height: 8vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Teko", sans-serif;
+  background-color: none;
+}
+
+.logoDiv {
+  display: flex;
+  margin-top: 7px;
+  margin-left: 20px;
+  align-items: center;
+}
+
+.mainIcon {
+  color: #FE6A34;
+  font-size: 2.3rem;
+  padding: 0;
+  margin-bottom: 10px;
+  margin-right: 4px;
+}
+
+.brandName {
+  cursor: pointer;
+  color: white;
+  font-size: 2rem;
+}
+
+.onText {
+  color: #FE6A34;
+}
+
+.onText:hover {
+  color: white;
+}
+
+.navContent {
+  font-family: sans-serif;
+  width: 25vw;
+  height: 8vh;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin-right: 20px;
+}
+
+.navText:hover {
+  color: #FE6A34;
+  cursor: pointer;
+}
+
+.signUpBtn {
+  background-color: #FE6A34;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  font-weight: 600;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.signUpBtn:hover {
+  background-color: #dc663b;
+}
