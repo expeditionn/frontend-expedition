@@ -1,0 +1,116 @@
+.mainBody {
+  display: flex;
+  justify-content: space-between;
+  height: 92vh;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
+.imageBody {
+  margin-left: 100px;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+}
+
+.image1 {
+  position: relative;
+}
+
+.image2 {
+  position: relative;
+  bottom: 150px;
+  left: 150px;
+}
+
+.image3 {
+  position: relative;
+  bottom: 240px;
+}
+
+.body2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 85vh;
+  background-color: rgb(19, 19, 19);
+  padding: 30px 50px;
+  border-radius: 5px;
+  border: 1px solid rgb(42, 39, 39);
+}
+
+.selectMenu {
+  margin-top: 20px;
+  margin-bottom: 50px;
+  height: 13vh;
+  width: 60vh;
+  border-radius: 6px;
+  background-color: rgb(19, 19, 19);
+  color: aliceblue;
+  border: 1px solid rgb(42, 39, 39);
+  padding-left: 10px;
+}
+
+.cardText {
+  text-align: left;
+}
+
+.ticketCards {
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+}
+
+.ticketCard {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid rgb(61, 59, 59);
+  width: 30vw;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  padding: 15px 22px;
+}
+
+.headingCard {
+  margin-top: 5px;
+  color: #FE6A34;
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.subHeading {
+  color: white;
+}
+
+.infoList {
+  font-size: 0.9rem;
+  color: #D4D4D4;
+  margin-bottom: 7px;
+  margin-left: 0;
+  list-style-type: none;
+  position: relative;
+  left: -40px;
+  text-wrap: wrap;
+}
+
+.infoListItem {
+  margin-bottom: 7px;
+  font-weight: 100;
+}
+
+.btnDiv {
+  display: flex;
+  align-items: flex-end;
+}
+
+.bookBtn {
+  background-color: #FE6A34;
+  height: 4vh;
+  width: 120px;
+  border: none;
+  color: white;
+  font-weight: 600;
+  border-radius: 16px;
+  cursor: pointer;
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ajksbdjkasd9wejwhe22-3ekwnsd",
+    "title": "Red Fort Entry Ticket",
+    "description" : "Red fort is a monument",
+    "place": "Delhi",
+    "show_name": "NULL",
+    "date": "12/12/24",
+    "time": "9:30AM to 5:00PM",
+    "noOfTickets": 20,
+    "available": true,
+    "price": 200,
+    "type": "National Monument",
+    "seller": "dhgfjgufru"
+  },
+  {
+    "id": "india-gate-2024",
+    "title": "India Gate Entry",
+    "description": "India Gate is a war memorial in Delhi.",
+    "place": "Delhi",
+    "show_name": "NULL",
+    "date": "12/12/24",
+    "time": "9:00AM to 6:00PM",
+    "noOfTickets": 50,
+    "price": 0
+  },
+  {
+    "id": "qutub-minar-2024",
+    "title": "Qutub Minar Entry Ticket",
+    "description": "Qutub Minar is a historic minaret in Delhi.",
+    "place": "Delhi",
+    "show_name": "NULL",
+    "date": "12/12/24",
+    "time": "9:00AM to 5:00PM",
+    "noOfTickets": 30,
+    "price": 250
+  },
+  {
+    "id": "humayun-tomb-2024",
+    "title": "Humayun's Tomb Entry Ticket",
+    "description": "Humayun's Tomb is a Mughal mausoleum in Delhi.",
+    "place": "Delhi",
+    "show_name": "NULL",
+    "date": "12/12/24",
+    "time": "9:00AM to 6:00PM",
+    "noOfTickets": 25,
+    "price": 300
+  },
+  {
+    "id": "national-prime-minister-library-2024",
+    "title": "National Prime Minister Library Entry",
+    "description": "A library dedicated to the history and work of Indian Prime Ministers.",
+    "place": "Delhi",
+    "show_name": "NULL",
+    "date": "12/12/24",
+    "time": "10:00AM to 4:00PM",
+    "noOfTickets": 15,
+    "price": 500
+  },
+  {
+    "id": "lotus-temple-2024",
+    "title": "Lotus Temple Entry",
+    "description": "The Lotus Temple is a Bahá'í House of Worship in Delhi.",
+    "place": "Delhi",
+    "show_name": "NULL",
+    "date": "12/12/24",
+    "time": "9:00AM to 7:00PM",
+    "noOfTickets": 60,
+    "price": 0
+  }
+]
+  
